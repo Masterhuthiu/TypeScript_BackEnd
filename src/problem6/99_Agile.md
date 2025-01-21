@@ -109,7 +109,7 @@ Status: 400 Bad Request
 
 7\.1 Tables:
 
-![](Aspose.Words.90b8c535-ada4-4baf-88d6-715fbb527e50.001.png) ![](Aspose.Words.90b8c535-ada4-4baf-88d6-715fbb527e50.002.png) ![](Aspose.Words.90b8c535-ada4-4baf-88d6-715fbb527e50.003.png)
+![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.001.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.002.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.003.png)
 
 7\.2 Field:
 
@@ -117,4 +117,9 @@ Status: 400 Bad Request
 - purchase\_ordersusers Table: id (Identify PO); itemId (Name of PO); userId (Identify PO);} quantity (Name of PO); total (Identify PO); name (Name of PO) 
 - items Table id (Identify Items); name (Name of Item)
 
+7\.2 Sequence diagram:
+
+![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.004.png)
+
 END
+
