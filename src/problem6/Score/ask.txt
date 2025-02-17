@@ -1,1 +1,1 @@
-how to start typescript project and create get, post, put, delete API with ExpressJS and using data persistence with sqllite then add purchase order function which allow user can login and buy item, which note that user can get, post, put, delete PO. With user who submit 1 PO system can create 1 score and save score into system and system can show top 10 user with highest score any time
+
