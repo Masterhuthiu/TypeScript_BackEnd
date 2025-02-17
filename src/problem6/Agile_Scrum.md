@@ -108,8 +108,7 @@ The objective is to adjust the existing system specifically to add the function 
 7\. Database diagram
 
   \- 7\.1 Tables:
-
-      ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.001.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.002.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.003.png)
+![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.001.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.002.png) ![](Aspose.Words.c6e4b947-0b59-4ffb-b85f-824fd2cc2837.003.png)
 
   \- 7\.2 Field:
 
